@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Paper Finder",
+  "description": "Direct the website to its corresponding page with UNC authorization (Onyen login may be needed)",
+  "version": "0.1",
+  "background": { "scripts": ["background.js"] },
+  "browser_action": {
+      "name": "Finde this paper!"
+  },
+  "permissions": [
+      "tabs"
+  ]
+}
