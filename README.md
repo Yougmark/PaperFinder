@@ -2,11 +2,16 @@
 
 Have you ever struggled downloading papers outside the campus? This Google
 Chrome Extension enables an one-click option taking you to the FREE access page
-provided by UNC-CH. Happy working from home, Tar Heels!
+provided by UNC-CH (so Tar Heels only). Check out the demo below! And
+happy working from home, Tar Heels!
 
-ieee.explore.ieee.org, dl.acm.org, link.springer.com, and www.sciencedirect.com
-are currently supported. Feel free to add the website you need. Pull requests
-are welcome!
+ieee.explore.ieee.org, dl.acm.org, link.springer.com, onlinelibrary.wiley.com,
+and www.sciencedirect.com are currently supported. Feel free to add the website
+you need. Pull requests are welcome!
+
+## Demo
+
+![](https://raw.githubusercontent.com/Yougmark/PaperFinder/master/demo.gif)
 
 ## How to install
 
@@ -35,9 +40,9 @@ know if you meet any errors.
 
 For now, it is really simple but meets all my needs. It has less than 50 lines
 of code after all. To use this Chrome extension, when you are on a paper
-website of either IEEE, ACM, Springer, or ScienceDirect, click this extension
-button, which is the rightmost one as being freshly installed. Then it will bring
-you to the website with Free access.
+website of the libraries listed above, click this extension button, which is
+the rightmost one as being freshly installed. Then it will bring you to the
+website with Free access.
 
 You will be asked to log in with Onyen (mostly) for the first time or when your
 login is not valid any more. It is just like when directed from library.unc.edu.
